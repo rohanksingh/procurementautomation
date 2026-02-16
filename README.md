@@ -19,6 +19,6 @@ streamlit run app.py
 1. Create a request (AI Intake) → Submit
 2. Approve the request
 3. Generate PO (auto PO-000001…)
-4. Submit an invoice that matches → Matched ✅
-5. Submit an invoice with wrong amount/vendor → Exception ⚠️
+4. Submit an invoice that matches → Matched 
+5. Submit an invoice with wrong amount/vendor → Exception 
 6. Show Analytics & Audit → traceability table updates
