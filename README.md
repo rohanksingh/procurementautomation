@@ -15,7 +15,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Demo script (2–3 minutes)
+## Demo script
 1. Create a request (AI Intake) → Submit
 2. Approve the request
 3. Generate PO (auto PO-000001…)
